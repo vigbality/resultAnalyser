@@ -1,0 +1,7 @@
+INSTRUCTIONS
+0)do not disturb 'xyz.xlsx'
+1)science batch sheet should be saved as 'sci.xls'    (NOTE: save as .xls not .xlsx)
+2)commerce batch sheet should be saved as 'com.xls'
+3)sci and com combined batch sheet should be saved as 'all.xls'
+4)after placing the above 3 files in the folder, click on 'run.exe'.
+5)result analysis sheet will be saved as 'RESULT_ANALYSIS_XII.xlsx'
